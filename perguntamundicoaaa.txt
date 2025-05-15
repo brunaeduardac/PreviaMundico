@@ -1,0 +1,32 @@
+Qual e o maior oceano do mundo?;Oceano Atlantico;Oceano Indico;Oceano Pacifico;
+Oceano Artico;Oceano Pacifico
+|
+Qual continente o Brasil pertence?;Europa;Africa;
+Asia;America do Sul;America do Sul
+|
+Onde fica a Torre Eiffel?;Espanha;Inglaterra;Franca;Alemanha;Franca
+|
+Qual e a capital do Brasil?;Sao Paulo;Rio de Janeiro;Brasilia;Belo Horizonte;Brasilia
+|
+Qual destes e um deserto famoso?;Amazonas;Saara;Himalaia;Oceano;Saara
+|
+Qual e o planeta onde vivemos?;Marte;Venus;Terra;Jupiter;Terra
+|
+O que separa os continentes?;Arvores;Rios;Montanhas;Oceanos;Oceanos
+|
+Em que continente fica o Egito?;America;Europa;Africa;Asia;Africa
+|
+Qual e o maior pais do mundo em territorio?;China;Estados Unidos;Brasil;Russia;Russia
+|
+Qual e o nome do oceano que banha o litoral brasileiro?;Pacifico;Indico;Atlantico;Glacial;Atlantico
+|
+Quantos continentes existem?;4;5;6;7;7
+|
+A Floresta Amazonica fica principalmente em qual pais?;Peru;Colombia;Brasil;Bolivia;Brasil
+|
+Qual desses animais e encontrado nos polos?;Urso-polar;Leao;Canguru;Jacare;Urso-polar
+|
+O que e um mapa?;Um jogo;Um desenho de lugares;Uma comida;Uma planta;Um desenho de lugares
+|
+Qual desses e um estado do Brasil?;Buenos Aires;Lisboa;Bahia;Caracas;Bahia
+|
